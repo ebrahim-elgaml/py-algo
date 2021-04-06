@@ -1,0 +1,8 @@
+[report]
+include = lib/*
+skip_empty = true
+fail_under = 100
+
+[run]
+include = lib/*
+source = ./lib
